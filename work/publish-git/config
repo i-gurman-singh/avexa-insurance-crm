@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	worktree = C:/Users/igurm/Documents/Codex/2026-08-18/files-pasted-by-the-user-build
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/i-gurman-singh/avexa-insurance-crm.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
